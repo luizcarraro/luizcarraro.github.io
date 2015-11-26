@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ember-cli first install troubleshooting
-tags: [ember,]
+tags: [ember,ember-cli,first,install]
 excerpt_separator: <!--more-->
 ---
 
