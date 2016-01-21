@@ -41,11 +41,11 @@ navbar-links:
 author:
   name: Luiz Carraro
   email: "luizcarraro@me.com"
-  facebook: lacarraro  # eg. daattali
-  github: luizcarraro    # eg. daattali
-  twitter: luizcarraro8   # eg. daattali
+  facebook: lacarraro 
+  github: luizcarraro
+  twitter: luizcarraro8
   linkedin: luizcarraro  # eg. "pub/dean-attali/8/946/143"
-  stackoverflow: luizcarrari  # eg. "3943160/daattali"
+  stackoverflow: luizcarraro  # eg. "3943160/daattali"
 
 # Select which links to show in the footer
 footer-links-active:
@@ -59,7 +59,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "luizcarrarro.github.io"
+url-pretty: "luizcarrarro.com"
 
 # --- Misc --- #
 
@@ -67,7 +67,7 @@ url-pretty: "luizcarrarro.github.io"
 disqus: "luizcarraro"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-46003103-1"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
