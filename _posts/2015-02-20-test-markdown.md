@@ -2,6 +2,7 @@
 layout: post
 title: Test markdown
 subtitle: Each post also has a subtitle
+published: False
 ---
 
 You can write regular [markdown](http://en.wikipedia.org/wiki/Markdown) here and Jekyll will automatically convert it to a nice webpage.
