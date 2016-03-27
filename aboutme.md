@@ -1,16 +1,33 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
-
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<div id="aboutme-section">
+	<p class="about-text">
+		<span class="fa fa-briefcase about-icon"></span>
+		Currently working as the lead <strong>software engineer</strong> at <a href="http://tagon8.com" target="_blank">Tagon8.com</a> and <strong>assistant professor</strong> at <a href="http://unisep.edu.br" target="_blank">UNISEP (BR)</a>
+	</p>
+	<p class="about-text">
+		<span class="fa fa-graduation-cap about-icon"></span>
+		I hold a Master's Degree in <strong>Electrical Engineering</strong> from the Mackenzie University (São Paulo/Brazil), supervised by <a href="" target="_blank">Leandro Nunes de Castro</a>, with a Bachelor of <strong>Computer Science</strong> from the
+		University of Center-West (Brazil). My thesis project involved developing computational methods optimize short term of container terminals operations.
+	</p>
+	<p class="about-text">
+		<span class="fa fa-code about-icon"></span>
+		I've been working mainly with Javascript, Java and C/C++. But I do believe that the programming language should not matter if you understand the paradigm and logic. That said, I try to adventure myself at as many languages as possible. 
+	</p>
+	<p class="about-text">
+		<span class="fa fa-heart about-icon"></span>
+		I'm blessed to be married to a beatiful lady and we have the most sly puppy!
+	</p>
+	<p class="about-text">
+		<span class="fa fa-file-text-o about-icon"></span>
+		You can check my linkedin page or download the PDF version of my resume here.
+	</p>
+	<p class="about-text">
+		<span class="fa fa-globe about-icon"></span>
+		Grew up in <i>Salto Osório (BR)</i>, moved to <i>Guarapuava, (BR)</i> during college, then moved to São Paulo (BR) to study for Master's Degree and worked in <i>Santos (BR)</i>. Lived a while in the USA at <i>Livingston, Montana</i>. Now living in Dois Vizinhos (BR), working and teaching undergraduation courses at Unisep.
+	</p>
+	<!-- <p></p> -->
+</div>
