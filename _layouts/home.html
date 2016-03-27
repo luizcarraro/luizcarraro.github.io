@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<header class="header-page">
+	<div class="row">
+		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+			<div class="page-heading" style="margin-top:-20px;">
+				
+				<div class="avatar-container">
+					<div class="avatar-img-border">
+						<img class="avatar-img" src="{{ site.avatar | prepend: site.baseurl | replace: '//', '/' }}" />
+					</div>
+				</div>
+
+				<h1>Hi! I'm Luiz!</h1>
+				<span class="page-subheading">Lead Software Engineer at <strong><a href="www.tagon8.com">Tagon8.com</a></strong> & Lecturer at <strong><a href="www.unisep.edu.br">Unisep</a> </strong></span>
+				<hr class="small">
+				<p>I'm passionate about problem solving, TDD and nodeJS.
+				<br>Currently I'm leading web/mobile development teams at Tagon8.
+				<br>Since you're here, take a look at some of my working projects.
+				<br>For more information, check out the 'about me' page.
+				<br>
+				{% include external-links.html %}
+			</div>
+		</div>
+	</div>
+</header>
+<div class="row">
+	<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+		<!-- {{ content }} -->
+		{% if page.comments %}
+			<div class="disqus-comments">
+				{% include disqus.html %}
+			</div>
+		{% endif %}
+	</div>
+</div>
