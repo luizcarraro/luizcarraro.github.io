@@ -4,7 +4,7 @@ title: Ember-cli first install troubleshooting
 excerpt_separator: <!--more-->
 ---
 
-#So today I've just installed Ember-cli and was trying to create my initial project using the following command:
+So today I've just installed Ember-cli and was trying to create my initial project using the following command:
 <!--more-->
 
 ~~~
