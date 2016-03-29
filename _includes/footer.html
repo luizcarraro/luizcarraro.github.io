@@ -1,4 +1,9 @@
-<footer>
+{%if page.reference != "home" %}
+  <footer>
+{% else %}
+  <footer class="footer-fixed">
+{% endif %}
+
   {%if page.reference != "home" %}
     {% include external-links.html %}
   {% endif %}
