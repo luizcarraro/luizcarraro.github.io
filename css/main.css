@@ -239,6 +239,12 @@ footer {
   font-size: 14px;
 }
 
+.footer-fixed {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
 footer a {
   color: #404040;
 }
