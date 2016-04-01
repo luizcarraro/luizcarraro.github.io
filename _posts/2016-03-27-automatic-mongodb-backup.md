@@ -1,6 +1,7 @@
 ---
 layout: post
 title: An automatic mongodb backup aproach
+tags: [mongo, mongodb, backup, automatic, cron]
 excerpt_separator: <!--more-->
 ---
 
