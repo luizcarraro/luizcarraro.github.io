@@ -509,3 +509,8 @@ header.header-post .post-heading .post-subheading {
     text-align: center;
   }
 }
+
+.highlight pre  {
+  border: none;
+  background-color: #F5F5F5;
+}
