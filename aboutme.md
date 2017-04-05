@@ -19,7 +19,7 @@ subtitle:
 	</p>
 	<p class="about-text">
 		<span class="fa fa-heart about-icon"></span>
-		I'm blessed to be married to a beatiful lady and we have the most sly puppy!
+		I'm blessed to be married to a beatiful girl and we have the most sly puppy (we call him Bacon)!
 	</p>
 	<p class="about-text">
 		<span class="fa fa-file-text-o about-icon"></span>
@@ -27,7 +27,7 @@ subtitle:
 	</p>
 	<p class="about-text">
 		<span class="fa fa-globe about-icon"></span>
-		Grew up in <i>Salto Osório (BR)</i>, moved to <i>Guarapuava, (BR)</i> during college, then moved to São Paulo (BR) to study for Master's Degree and worked in <i>Santos (BR)</i>. Lived a while in the USA at <i>Livingston, Montana</i>. Now living in Dois Vizinhos (BR), working and teaching undergraduation courses at Unisep.
+		Grew up in <i>Salto Osório (BR)</i>, lived in <i>Guarapuava, (BR)</i> during college, then in São Paulo (BR) for Master's Degree and worked in <i>Santos (BR)</i>. Lived a while in the USA at <i>Livingston, Montana</i>. Now living in Pato Branco (BR), working at VIASOFT and teaching local Universities.
 	</p>
 	<!-- <p></p> -->
 </div>
