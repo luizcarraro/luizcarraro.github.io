@@ -6,7 +6,7 @@ subtitle:
 <div id="aboutme-section">
 	<p class="about-text">
 		<span class="fa fa-briefcase about-icon"></span>
-		Currently working as the lead <strong>software engineer</strong> at <a href="http://tagon8.com" target="_blank">Tagon8.com</a> and <strong>assistant professor</strong> at <a href="http://unisep.edu.br" target="_blank">UNISEP (BR)</a>
+		Currently working as <strong>Full Stack NodeJs Engineer</strong> at <a href="http://leads2b.com" target="_blank">Leads2b.com</a> and <strong>assistant professor</strong> at <a href="http://materdei.edu.br" target="_blank">Mater Dei (BR)</a>
 	</p>
 	<p class="about-text">
 		<span class="fa fa-graduation-cap about-icon"></span>
